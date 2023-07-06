@@ -1,6 +1,6 @@
 # Food Order App
 
-## 🛠 Tecnologias
+## 🛠 Technologies 
 
 The following technologies were used in the development of the project:
 
